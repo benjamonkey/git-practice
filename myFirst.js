@@ -11,3 +11,7 @@ journal.push(car);
 var truck = "chevy";
 
 journal.push(truck);
+
+var sportsCar = "Viper GTSR";
+
+journal.push(sportsCar);
